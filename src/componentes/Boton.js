@@ -1,5 +1,5 @@
 import React from "react";
-
+import '../css/Boton.css'
 
 function Boton({ text,isButtonClic,taller }){
     return(

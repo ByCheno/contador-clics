@@ -14,17 +14,16 @@ html,body{
   align-items: center;
   justify-content: center;
   padding-top: 15px;
-  font-family: Lato, sans-serif;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .logoAM{
   width: 100%;
-  display: flex;
   align-items: center;
   justify-content: center;
-  margin: 20px;
+  margin: 100px;
 }
 
 .img-logo{
-  height: 150px;
+  height: 200px;
 }
