@@ -18,6 +18,7 @@ html,body{
 }
 
 .contenedor-principal{
+    margin-top: 2%;
     width: 100%;
     top: 30%;
     display: flex;
@@ -28,10 +29,17 @@ html,body{
 
 .logoAM{
   width: 100%;
+  display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
 .img-logo{
-  height: 200px;
+  height: 150px;
+  margin-left: 30%;
+}
+
+.encabezado{
+  color: aliceblue;
 }

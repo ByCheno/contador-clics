@@ -1,5 +1,5 @@
 .contador{
-    width: 400px;
+    min-width: 400px;
     height: 400px;
     font-size: 150px;
     color: rgb(212, 255, 240);
