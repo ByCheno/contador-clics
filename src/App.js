@@ -16,10 +16,18 @@ function App() {
     setLaps(0);
   }
 
+  const oneMoreLapAA = () => {
+    setLaps(laps + 1);  
+  }
+
+  const resetCarasd = () => {
+    setLaps(0);
+  }
+
   return (
     <div className="App">
         <div className='logo-AM'>
-          <img className='img-logo' src={amLogo}/>
+          <img className='img-logo' src={amLogo} alt='Logo de Aston Martin'/>
           <h1 className='encabezado'>VUELTAS DE PRUEBA PARA FERNANDO ALONSO</h1>
         </div>
         <dev className='contenedor-principal'>
