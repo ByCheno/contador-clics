@@ -16,13 +16,13 @@ function App() {
     setLaps(0);
   }
 
-  const oneMoreLapAA = () => {
-    setLaps(laps + 1);  
-  }
+  // const oneMoreLapAA = () => {
+  //   setLaps(laps + 1);  
+  // }
 
-  const resetCarasd = () => {
-    setLaps(0);
-  }
+  // const resetCarasd = () => {
+  //   setLaps(0);
+  // }
 
   return (
     <div className="App">
