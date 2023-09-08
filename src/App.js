@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="App">
         <div className='logo-AM'>
-          <img className='img-logo' src={amLogo} alt='Logo de Aston Martin'/>
+          <img className='img-logo' src={amLogo}/>
           <h1 className='encabezado'>VUELTAS DE PRUEBA PARA FERNANDO ALONSO</h1>
         </div>
         <dev className='contenedor-principal'>
