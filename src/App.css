@@ -17,11 +17,19 @@ html,body{
   font-family: 'Courier New', Courier, monospace;
 }
 
+.contenedor-principal{
+    width: 100%;
+    top: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 .logoAM{
   width: 100%;
   align-items: center;
   justify-content: center;
-  margin: 100px;
 }
 
 .img-logo{
